@@ -1,6 +1,6 @@
 # Microsploit 
 
-a Simple tool and not very special  but this tool fast and easy create backdoor office exploitation using module metasploit packet. Like Microsoft Office in windows or mac , Open Office in linux  , Macro attack , Buffer Overflow in word . Work in kali rolling , Parrot , Backbox .
+A Simple tool and not very special  but this tool fast and easy create backdoor office exploitation using module metasploit packet. Like Microsoft Office in windows or mac , Open Office in linux  , Macro attack , Buffer Overflow in word . Work in kali rolling , Parrot , Backbox .
 
 
 # Screenshot
@@ -9,7 +9,7 @@ a Simple tool and not very special  but this tool fast and easy create backdoor 
 
 
 ## Getting Started
-1. ```git clone https://github.com/Screetsec/microsploit.git```
+1. ```git clone https://github.com/Ghous73ys/Microsploit.git```
 2. ```chmod +x Microsploit && ./Microsploit```
 
 ## :book: How it works
@@ -19,16 +19,6 @@ a Simple tool and not very special  but this tool fast and easy create backdoor 
 * And run the tools ( ./Microsploit )
 * Easy to Use just input your number
 
-
-## :octocat: Credits
-
-- Thanks to allah and Screetsec [ Edo -maland- ] <Me>
-- Dracos Linux from Scratch Indonesia ( Penetration os ) Thanksyou , you can see in http://dracos-linux.org/
-- Offensive Security for the awesome OS ( http://www.offensive-security.com/ )
-- http://www.kali.org/"
-- And another open sources tool in github
-- Uptodate new tools hacking visit http://www.kitploit.com
-
-## Disclaimer
+# Disclaimer
 
 ***Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool ( Edo -m- ).***
